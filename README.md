@@ -1,9 +1,3 @@
-# CFPB Complaint Equity Analysis
-
-This repository contains data and code for the PNAS Brief Report:
-
-**Sun Y., He D., Kejriwal M. (2025). Persistent Inequities in Financial Complaint Resolution for Older Adults and Service-Members.**
-
 ## Files
 
 - `model.R` – R script for data cleaning, Model 4 estimation, and output generation  
