@@ -8,7 +8,9 @@
 ## Data Sources
 
 - CFPB Consumer Complaint Database: [link](https://www.consumerfinance.gov/data-research/consumer-complaints/)  
-- Area Deprivation Index (ADI): [link](https://www.neighborhoodatlas.medicine.wisc.edu/)
+- Area Deprivation Index (ADI): [link](https://www.neighborhoodatlas.medicine.wisc.edu/)  
+- Joined complaint–ADI dataset (CSV): one row per complaint (2014–2022) with product, timely response, ZIP linkage, older-adult and servicemember flags, and state-standardized ADI fields.  
+  - Download: [Google Drive](https://drive.google.com/file/d/1Gg96awTEZnsmlmOWgaE8UZRDgTTyLekU/view?usp=sharing)  
 
 ## How to use
 
